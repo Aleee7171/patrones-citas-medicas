@@ -1,3 +1,4 @@
+package main.java.negocio;
 import java.util.List;
 
 public interface EstrategiaOrden {

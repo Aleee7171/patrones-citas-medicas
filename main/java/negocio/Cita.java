@@ -1,7 +1,9 @@
+package main.java.negocio;
+
 public class Cita {
 
     private final String paciente;
-    private final String fecha;
+    private final String fecha; 
 
     public Cita(String paciente, String fecha) {
         this.paciente = paciente;
